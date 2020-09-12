@@ -1,0 +1,8 @@
+- Add sidebar using Bootstrap columns with smooth scrolling to each section.
+- Clearly delineate sections. Use Bootstrap CSS with backgrounds.
+
+
+Pages to add:
+ - Photos I've taken
+ - Music recordings of me
+ - Travel/cool things I've done blog
